@@ -1,5 +1,5 @@
 # Employee-Management-Project
-A cpp project based on Classes and File handling allowing basic operation such as adding, modifying, deleting and displaying one or all employee records. Besides these, this project also allows users to print the salary slip for a particular employee. This project is large and I tried our best to make it error-free. 
+A cpp project based on Classes and File handling allowing basic operation such as adding, modifying, deleting and displaying one or all employee records. Besides these, this project also allows users to print the salary slip for a particular employee. This project is large and I tried my best to make it error-free. 
 
 Project uses following c/c++ concept
 
