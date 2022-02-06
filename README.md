@@ -9,7 +9,7 @@ File handling
 C++ Graphics
 Function overriding and overloading
 
-Project Operations
+#Project Operations
 
 Addition of New Employee:
 This feature is under the public functions of class employee. The information handled in this feature are employee code number, name, address, phone number, joining date (day, month and year), designation, grade and loan.
@@ -29,8 +29,8 @@ Providing the employee code number, users can access all the provided informatio
 Display List of Employees:
 This feature displays the record of all employees added in file. The records are displayed in a tabular pattern containing information such as code name of the employee, phone number, date of joining, designation, grade and salary.
 
-Limitations
+#Limitations
 The interface is made keeping in mind the resolution of 640x480. The project is still under development and may have bugs at different stages.
 
-Contribute
+#Contribute
 Please feel free to add your own code, fix bugs or improve the docs.
